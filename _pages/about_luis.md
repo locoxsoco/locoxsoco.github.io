@@ -1,0 +1,5 @@
+I am a master's student at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) in Barcelona. Under the supervision of [Oscar Argudo](https://www.oargudo.com/), my current research focuses on mixing different particle systems for general and detailed modeling of lava flows, allowing authoring in interactive times.
+
+I hold a BSc in Computer Science from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/), where I worked at the IA-PUCP lab under the supervision of [Ivan Sipirán](https://www.ivan-sipiran.com/) in 3D reconstruction techniques. My research involved implementing a 3D reconstruction pipeline to recover shattered archeological potteries using a data-driven approach, by extracting depth maps from multiple angles of a 3D mesh, passing it through a multi-view GAN and retroprojecting the results to generate the reconstructed 3D mesh.
+
+With a strong background in computer graphics and 3D visualization, I am dedicated to reducing the gap between the real world and what computers can understand and reproduce from it.

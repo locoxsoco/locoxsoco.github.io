@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at <a href='https://www.upc.edu/en'>Universitat Politècnica de Catalunya</a>. Researcher at <a href='https://www.virvig.eu/'>ViRVIG</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_3936.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at [UPC](https://www.upc.edu/en), currently working as a researcher at [ViRVIG](https://www.virvig.eu/) under the supervision of [Oscar Argudo](https://www.oargudo.com/) and [Carlos Andújar](https://scholar.google.es/citations?hl=es&user=d3Vhq4YAAAAJ&view_op=list_works). My research focuses on augmenting complex human body animations in sports, such as bouldering, using Deep Reinforcement Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my MSc studies, I have researched on physically-based methods for lava fluid simulations. I also contributed in a physically-based rock fracture simulation project. Additionally, I started working at the [ViRVIG](https://www.virvig.eu/) lab as a research intern for an HP project, which focused on intensive geometric algorithms for 3D printing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a BSc in Computer Science from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/), where I worked at the IA-PUCP lab under the supervision of [Ivan Sipirán](https://scholar.google.com/citations?hl=ca&user=53Mi3fIAAAAJ&view_op=list_works), focusing on 3D reconstruction techniques for cultural heritage using Deep Learning. Throughout these years, I had the opportunity to work as a software developer and cloud engineer at companies such as [EY](https://www.ey.com/es_pe), [Huawei](https://e.huawei.com/es/), and [Tuxpas](https://tuxpas.com/).
+
+With a strong background in both industry and research, I am committed to bridging the gap between cutting-edge research technologies and their practical applications in the industry.

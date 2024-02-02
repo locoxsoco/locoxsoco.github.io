@@ -1,199 +1,176 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Luis Carranza",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "luis.carranza@upc.edu",
+    "phone": "",
+    "url": "",
+    "summary": "PhD student at Universitat Politècnica de Catalunya, working on Character Animation using Deep Reinforcement Learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "ViRVIG",
+      "position": "Researcher",
+      "url": "https://www.virvig.eu/",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "PhD research in character animation",
+      "highlights": ["Character Animation", "Deep Reinforcement Learning"]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "ViRVIG",
+      "position": "Research Intern",
+      "url": "https://www.virvig.eu/",
+      "startDate": "2022-10",
+      "endDate": "2023-10",
+      "summary": "Geometric Operations for industrial HP 3D printers",
+      "highlights": ["Develop a library to transform 3D models into slices a 3D printer can process", "Designed and implemented optimized geometric processing algorithms with C++ by using data structures"]
+    },
+    {
+      "name": "Tuxpas",
+      "position": "Software Engineer",
+      "url": "https://tuxpas.com/aws",
+      "startDate": "2021-01",
+      "endDate": "2021-12",
+      "summary": "Data Engineering and Cloud Architecture projects",
+      "highlights": ["Designed and developed data lake processes for +1M transactions with PySpark and using AWS services", "Designed and budgeted +10 Cloud Architectures for Data Engineering and Data Analytics projects"]
+    },
+    {
+      "name": "Huawei",
+      "position": "Trainee",
+      "url": "https://e.huawei.com/es/",
+      "startDate": "2020-08",
+      "endDate": "2020-12",
+      "summary": "Material Control Management for 5G Optic Fiber Installations",
+      "highlights": ["Managed projects in +10 different cities simultaneously with +5 contractors"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universitat Politècnica de Catalunya",
+      "location": "Barcelona, Spain",
+      "url": "https://www.upc.edu/en",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "courses": ["Character Animation","Deep Reinforcement Learning"]
+    },
+    {
+      "institution": "Universitat Politècnica de Catalunya",
+      "location": "Barcelona, Spain",
+      "url": "https://www.upc.edu/en",
+      "area": "Computer Graphics and Virtual Reality",
+      "studyType": "Master",
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-01",
+      "score": "8.55/10",
+      "courses": ["Simulations","Physically-based methods"]
+    },
+    {
+      "institution": "Pontificia Universidad Católica del Perú",
+      "location": "Lima, Perú",
+      "url": "https://www.pucp.edu.pe/en/",
+      "area": "Informatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2015-03-01",
+      "endDate": "2020-08-01",
+      "score": "15.13/20",
+      "courses": ["Software Engineering","Deep Learning","3D reconstruction"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "PhD FPI Grant",
+      "date": "2023",
+      "awarder": "Spain Ministery of Science, Innovation and Universities",
+      "url": "https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-predoctorales-formacion-doctoresas-2022",
+      "summary": "Predoctoral contract grant"
+    },
+    {
+      "title": "Research Initiation Grant",
+      "date": "2022",
+      "awarder": "Universitat Politècnica de Catalunya",
+      "url": "https://rdi.upc.edu/ca/uaslr/vols-dedicar-te-a-la-recerca/beques-inirec",
+      "summary": "Research internt contract grant"
+    },
+    {
+      "title": "Becas Santander Scholarship",
+      "date": "2020",
+      "awarder": "MIT Professional Education",
+      "url": "https://professionalprograms.mit.edu/",
+      "summary": "Scholarship for online programs related with Leading Digital Transformation and Cloud & DevOps: Continuous Transformation"
+    },
+    {
+      "title": "CINDA Scholarship",
+      "date": "2019",
+      "awarder": "Pontificia Universidad Católica del Perú",
+      "url": "https://internacionalizacion.pucp.edu.pe/programa-estudiante/cinda/",
+      "summary": "Scholarship for a student exchange program between the most important universities in Latin America and prestigious universities in Europe"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "2021-10",
+      "issuer": "AWS",
+      "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/2416P9SLME1EQ0SG",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "TOEFL iBT Score 93",
+      "date": "2020-10",
+      "issuer": "ETS",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "name": "MIT Professional Education Cloud & Devops",
+      "date": "2020-09",
+      "issuer": "MIT Professional Education",
+      "icon": "fa-solid fa-clipboard-check"
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "MIT Professional Education Leading Digital Transformation",
+      "date": "2020-05",
+      "issuer": "MIT Professional Education",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Spanish",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "language": "French",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Catalan",
+      "fluency": "Basic",
+      "icon": ""
     }
   ]
 }

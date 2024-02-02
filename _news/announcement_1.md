@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-13 07:35:00+0100
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I won an [INIREC](https://rdi.upc.edu/ca/uaslr/vols-dedicar-te-a-la-recerca/beques-inirec) grant! ✨ I am starting a research intern position at [ViRVIG](https://www.virvig.eu/) for an [HP project](https://reinvent.hp.com/es-es-3dprint-Dfactory-tours).
