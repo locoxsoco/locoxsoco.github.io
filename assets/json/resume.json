@@ -33,6 +33,15 @@
       "highlights": ["Character Animation", "Deep Reinforcement Learning"]
     },
     {
+      "name": "Hyper Online",
+      "position": "R&D Engineer",
+      "url": "https://hyper.online/",
+      "startDate": "2024-02",
+      "endDate": "2025-01",
+      "summary": "Design and implement animation systems for virtual avatars using web camera or audio input.",
+      "highlights": ["Character Animation", "Virtual Avatars"]
+    },
+    {
       "name": "ViRVIG",
       "position": "Research Intern",
       "url": "https://www.virvig.eu/",
@@ -107,7 +116,7 @@
       "date": "2022",
       "awarder": "Universitat Politècnica de Catalunya",
       "url": "https://rdi.upc.edu/ca/uaslr/vols-dedicar-te-a-la-recerca/beques-inirec",
-      "summary": "Research internt contract grant"
+      "summary": "Research intern contract grant"
     },
     {
       "title": "Becas Santander Scholarship",
