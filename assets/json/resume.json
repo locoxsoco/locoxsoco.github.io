@@ -48,7 +48,10 @@
       "startDate": "2022-10",
       "endDate": "2023-10",
       "summary": "Geometric Operations for industrial HP 3D printers",
-      "highlights": ["Develop a library to transform 3D models into slices a 3D printer can process", "Designed and implemented optimized geometric processing algorithms with C++ by using data structures"]
+      "highlights": [
+        "Develop a library to transform 3D models into slices a 3D printer can process",
+        "Designed and implemented optimized geometric processing algorithms with C++ by using data structures"
+      ]
     },
     {
       "name": "Tuxpas",
@@ -57,7 +60,10 @@
       "startDate": "2021-01",
       "endDate": "2021-12",
       "summary": "Data Engineering and Cloud Architecture projects",
-      "highlights": ["Designed and developed data lake processes for +1M transactions with PySpark and using AWS services", "Designed and budgeted +10 Cloud Architectures for Data Engineering and Data Analytics projects"]
+      "highlights": [
+        "Designed and developed data lake processes for +1M transactions with PySpark and using AWS services",
+        "Designed and budgeted +10 Cloud Architectures for Data Engineering and Data Analytics projects"
+      ]
     },
     {
       "name": "Huawei",
@@ -78,7 +84,7 @@
       "studyType": "PhD",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "courses": ["Character Animation","Deep Reinforcement Learning"]
+      "courses": ["Character Animation", "Deep Reinforcement Learning"]
     },
     {
       "institution": "Universitat Politècnica de Catalunya",
@@ -89,7 +95,7 @@
       "startDate": "2021-09-01",
       "endDate": "2023-07-01",
       "score": "8.55/10",
-      "courses": ["Simulations","Physically-based methods"]
+      "courses": ["Simulations", "Physically-based methods"]
     },
     {
       "institution": "Pontificia Universidad Católica del Perú",
@@ -100,7 +106,7 @@
       "startDate": "2015-03-01",
       "endDate": "2020-08-01",
       "score": "15.13/20",
-      "courses": ["Software Engineering","Deep Learning","3D reconstruction"]
+      "courses": ["Software Engineering", "Deep Learning", "3D reconstruction"]
     }
   ],
   "awards": [

@@ -69,7 +69,7 @@ As the paper explains, there is one GAN model per point of view, and the model r
 </div>
 
 - **Retroproject the results from Depth Maps to 3D model:**
-Once the reconstructed depth maps were retrieved by the Deep Learning model, I have to retro project these into one 3D model again. For this task, I convert the Depth Map pixels into cloud points using the position of the camera points of view as their references with C/C++ using this project as the [base code](https://github.com/happylun/SketchModeling/tree/master/Fusion/src/ReconstructMesh). Then, I applied some pruning for biased pixels and finally, I used the MeshLab API to convert these point clouds into a 3D mesh object.
+  Once the reconstructed depth maps were retrieved by the Deep Learning model, I have to retro project these into one 3D model again. For this task, I convert the Depth Map pixels into cloud points using the position of the camera points of view as their references with C/C++ using this project as the [base code](https://github.com/happylun/SketchModeling/tree/master/Fusion/src/ReconstructMesh). Then, I applied some pruning for biased pixels and finally, I used the MeshLab API to convert these point clouds into a 3D mesh object.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -84,4 +84,4 @@ Once the reconstructed depth maps were retrieved by the Deep Learning model, I h
 </div>
 
 - **Compare the reconstruction with the original model and analyze the results:**
-Finally, I used the Intersection over Union method to calculate the degree of similarity between the original and reconstructed models. As I chose 5 different pottery types, then I analyzed which types were easier to reconstruct and which ones were more difficult.
+  Finally, I used the Intersection over Union method to calculate the degree of similarity between the original and reconstructed models. As I chose 5 different pottery types, then I analyzed which types were easier to reconstruct and which ones were more difficult.
