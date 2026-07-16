@@ -14,6 +14,16 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 
+# Dynamically find and update policy.xml if it exists
+RUN find /etc -name "policy.xml" -exec sed -i -E 's/name="memory" value=".*"/name="memory" value="4GiB"/g' {} + && \
+    find /etc -name "policy.xml" -exec sed -i -E 's/name="map" value=".*"/name="map" value="4GiB"/g' {} + && \
+    find /etc -name "policy.xml" -exec sed -i -E 's/name="disk" value=".*"/name="disk" value="8GiB"/g' {} +
+
+# Set environment variables as a fallback for ImageMagick limits
+ENV MAGICK_MEMORY_LIMIT=4GiB \
+    MAGICK_MAP_LIMIT=4GiB \
+    MAGICK_DISK_LIMIT=8GiB
+
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
 
